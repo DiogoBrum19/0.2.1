@@ -1,3 +1,24 @@
 html{
 scroll-behavior: smooth;   
 }
+
+body{ 
+ 
+ margin: auto;
+ width: 1200px;
+}
+ul{
+  margin-left: 300px;
+}
+ul li {
+    display: inline;
+    margin: 0 1em;
+    font-size: 19px;
+    
+  }
+h1{
+text-align: center;  
+}
+
+
+
